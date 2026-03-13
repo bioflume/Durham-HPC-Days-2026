@@ -394,7 +394,7 @@ t {
     Discover the full schedule of keynotes, technical sessions, and social events for the upcoming conference.
     Check the programme to plan your participation and make the most of your experience at Durham HPC Days.<br>
   </t><br>
-  <a href="https://hpc-days.github.io/Durham-HPC-Days-2026/programme-week/" class="btn btn-purple">Full programme coming up soon</a>
+  <a href="https://hpc-days.github.io/Durham-HPC-Days-2026/programme-hpcdays-2026/" class="btn btn-purple">Full programme coming up soon</a>
 </section>
 
 <script>
