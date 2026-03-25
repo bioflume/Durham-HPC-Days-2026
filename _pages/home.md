@@ -402,7 +402,7 @@ t {
   <t style="max-width: 700px; margin: 0 auto 2rem;">
     <img src="assets/images/HPCDaysSponsors.png" alt="HPC Days sponsors"/>
     <br/>
-    <img src="assets/images/HPCDaysSponsors.png" alt="HPC Days sponsors"/>
+    <img src="assets/images/HPCDaysSponsors.gif" alt="HPC Days sponsors"/>
   </t>
 </section
 
