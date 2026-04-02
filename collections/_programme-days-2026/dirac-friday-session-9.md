@@ -16,11 +16,10 @@ title: "Building Community"
 
 #FACILITATOR
 # Comma-separated list of the leads of the session
-facilitator: "Simon Hands (Community Development Director, DiRAC)"
+facilitator: "Simon Hands (Community Development Director DiRAC)"
 # Leads photos (must match order of names above). 
 facilitator_photos:
-  - "![SJH](https://github.com/user-attachments/assets/607c5dd9-d266-4c78-b885-3c046c436e31)
-"
+  - "https://github.com/user-attachments/assets/607c5dd9-d266-4c78-b885-3c046c436e31"
 # Leads profile links (must match order of names above)
 facilitator_links:
   - "https://dirac.ac.uk/person/simon-hands/"
@@ -78,8 +77,8 @@ institution_link: ""
 # Comma-separated list of organisers
 organiser: "DiRAC"
 # Organisers logo
-organiser_logo: "![dirac_logo](https://github.com/user-attachments/assets/a9e84c62-3ac3-4647-87a8-b5bd0fa4bc7a)
-" 
+organiser_logo: "https://github.com/user-attachments/assets/a9e84c62-3ac3-4647-87a8-b5bd0fa4bc7a"
+
 # Organisers website link
 organiser_link: "https://dirac.ac.uk"
 
@@ -102,10 +101,9 @@ supported_link: ""
 
 # Full session description (please use <br> to add a new paragraph). Add requirements if relevant. 
 description: "Inspired by on-going discussions about plans to establish Community Centres of Excellence
-within the UKRI DRI, this workshop brings together practitioners, community champions and programme managers from diverse areas of scientific computation in the UK to articulate what we each mean by “community” and map out what challenges and opportunities may lie ahead.
+within the UKRI DRI, this workshop brings together practitioners, community champions and programme managers from diverse areas of scientific computation in the UK to articulate what we each mean by 'community' and map out what challenges and opportunities may lie ahead.
 
-<br> The morning session will consist of presentations from practitioners representing a broad spread of HPC-based science.
-"
+<br> The morning session will consist of presentations from practitioners representing a broad spread of HPC-based science."
    
 
 requirements: ""
