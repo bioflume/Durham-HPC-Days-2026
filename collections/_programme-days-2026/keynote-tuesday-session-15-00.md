@@ -2,7 +2,7 @@
 title: "Why are High Performance Computing Systems still based on 1980’s Architectures?"
 
 
-lead: "John McCalpi"
+lead: "John McCalpin"
 lead_photos:
   - ""
 lead_links: ""
