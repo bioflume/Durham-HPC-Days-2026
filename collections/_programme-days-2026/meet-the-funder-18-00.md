@@ -10,17 +10,17 @@
 # SCHEDULING INFORMATION - COMPLETE INFORMATION
 
 # Full TITLE of the session/tutorial
-title: "Lustre User Group UK Summer Meeting"
+title: "Meet the funder"
 
 
 
 
 #LEADS
 # Comma-separated list of the leads of the session
-lead: "Robert Esnouf"
+lead: "TBD"
 # Leads' photos (must match order of names above). 
 lead_photos:
-  - "assets/images/generic.jpg"
+  - ""
 # Leads; profile links (must match order of names above)
 lead_links:
   - ""
@@ -78,9 +78,9 @@ institution_link: ""
 # Comma-separated list of organisers
 organiser: ""
 # Organisers logo
-organiser_logo: "https://www.lustrefilesystem.com/wp-content/uploads/2024/01/lug-uk-logo.png"
+organiser_logo: ""
 # Organisers website link
-organiser_link: "https://www.lustrefilesystem.com/"
+organiser_link: ""
 
 
 # SUPPORTED
@@ -100,7 +100,7 @@ supported_link: ""
 # DESCRIPTION
 
 # Full session description (please use <br> to add a new paragraph). Add requirements if relevant. 
-description: "The summer meeting of Lustre User Group UK talking all things Lustre and HPC storage including getting started with Lustre, user stories, technical updates and an expert panel to answer your questions."
+description: "Details coming up soon"
    
 
 requirements: ""
@@ -115,20 +115,12 @@ requirements: ""
 layout: meeting
 category: "Meeting"
 
-day: "Monday"
+day: "Thursday"
 track: "D"
 
-start_time: "13:00"
-end_time: "14:30"
+start_time: "18:00"
+end_time: "20:00"
 
-
-day_1: "Monday"
-start_time_1: "13:00"
-end_time_1: "14:30"
-
-day_2: "Monday"
-start_time_2: "16:30"
-end_time_2: "18:00"
 
 
 room: "Mountjoy Centre"
