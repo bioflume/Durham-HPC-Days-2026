@@ -255,7 +255,26 @@ hidden: true
       </div>
        </a>
        
+       
+              <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiSpef17uKTAxX7UEEAHVxrAFAQFnoECCQQAQ&url=https%3A%2F%2Fwww.dell.com%2Fen-uk&usg=AOvVaw3-JlCQe6jSInbb9A7hdiSS&opi=89978449" target="_blank" rel="noopener noreferrer">
+      <div class="sponsor-logo">
+        <img src="https://aeseurope.com/wp-content/uploads/2021/05/dell-technologies-vertical_logo.png">
+      </div>
+       </a>
 
+
+              <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjHt7zO7-KTAxWfUUEAHSOuHtAQFnoECAwQAQ&url=https%3A%2F%2Fwww.stackhpc.com%2F&usg=AOvVaw3_HCI0LAC1JzR1DqJ8p2Yb&opi=89978449" target="_blank" rel="noopener noreferrer">
+      <div class="sponsor-logo">
+        <img src="https://avatars.githubusercontent.com/u/22750772?s=200&v=4">
+      </div>
+       </a>
+       
+                     <a href="https://spectralogic.com/">
+      <div class="sponsor-logo">
+        <img src="https://spectralogic.com/wp-content/uploads/SpectraLogo-2023.webp">
+      </div>
+       </a>
+       
 
 
       <!-- Add more as needed -->
@@ -1309,6 +1328,16 @@ t {
   .ws-hero {
     background-attachment: scroll;
   }
+  
+  .sponsors-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
+  gap: 1rem;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+
 }
 
 </style>
