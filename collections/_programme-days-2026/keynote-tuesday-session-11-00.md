@@ -2,10 +2,10 @@
 title: "Keynote"
 
 
-lead: "Alice-Agnes Gabriel"
-lead_photos:
+speaker: "Alice-Agnes Gabriel"
+speaker_photos:
   - "https://shareing-dri.github.io/assets/profilepics/generic.jpg"
-lead_links: "https://www.alicegabriel.com/"
+speaker_links: "https://www.alicegabriel.com/"
 
 
 

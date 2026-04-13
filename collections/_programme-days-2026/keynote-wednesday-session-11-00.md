@@ -2,10 +2,10 @@
 title: "What Works? Academic-Industry Collaborations Across Borders - US vs EU models"
 
 
-lead: "Melyssa Fratkin"
-lead_photos:
+speaker: "Melyssa Fratkin"
+speaker_photos:
   - "https://shareing-dri.github.io/assets/profilepics/generic.jpg"
-lead_links: ""
+speaker_links: ""
 
 
 

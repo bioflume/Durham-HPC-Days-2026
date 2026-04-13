@@ -2,10 +2,10 @@
 title: "TBD"
 
 
-lead: "Timo Betcke"
-lead_photos:
+speaker: "Timo Betcke"
+speaker_photos:
   - ""
-lead_links: ""
+speaker_links: ""
 
 
 

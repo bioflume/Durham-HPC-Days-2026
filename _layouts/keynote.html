@@ -8,20 +8,20 @@ layout: default
   <div class="session-hero-content">
    <h1>{{ page.title }}</h1>
    
-   {% if page.lead %}
-  {% assign leads = page.lead | split: "," %}
+   {% if page.speaker %}
+  {% assign speakers = page.speaker | split: "," %}
   <p class="instructors keynote-name">
-    {% for sp in leads %}
+    {% for sp in speaker %}
       {{ sp | strip }}{% if forloop.last == false %}, {% endif %}
     {% endfor %}
   </p>
 {% endif %}
 
-    {% if page.lead_photos and page.lead_photos[0] %}
-      <div class="keynote-photo-wrapper">
+    {% if page.speaker_photos and page.speaker_photos[0] %}
+      <div class="speaker-photo-wrapper">
         <img 
-          src="{{ page.lead_photos[0] | relative_url }}" 
-          alt="{{ page.lead }}"
+          src="{{ page.speaker_photos[0] | relative_url }}" 
+          alt="{{ page.speaker }}"
           class="keynote-photo">
       </div>
     {% endif %}

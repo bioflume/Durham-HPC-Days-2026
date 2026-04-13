@@ -2,10 +2,12 @@
 title: "TBD"
 
 
-lead: "TBD"
-lead_photos:
+
+speaker: "TBD"
+speaker_photos:
   - ""
-lead_links: ""
+speaker_links: ""
+
 
 
 

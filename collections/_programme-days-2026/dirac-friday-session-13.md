@@ -27,7 +27,7 @@ facilitator_links:
 
 #SPEAKERS
 # Comma-separated list of the speakers of the session
-speaker: "Luke Davis (UKRI), Luigi del Debbio (Edinburgh), Sarah Harris (Sheffield), Jonathan Hays (QMUL), Eugene Lim (KCL), Crispin Miller (Glasgow), Karina Rodriguez Echavarria (Brighton), Katherine Rooke (STFC), Matthieu Schaller (Leiden), Andrea Townsend-Nicholson (UCL), Mark Wilkinson (DiRAC), Scott Woodley (UCL)"
+speaker: "Luke Davis, Luigi del Debbio, Sarah Harris, Jonathan Hays, Eugene Lim, Crispin Miller, Karina Rodriguez Echavarria, Katherine Rooke, Matthieu Schaller, Andrea Townsend-Nicholson, Mark Wilkinson, Scott Woodley"
 # Speakers photos (must match order of names above). 
 speaker_photos:
  - ""

@@ -171,6 +171,13 @@ classes: [full-programme]
         <span class="meta-value">{{ s.facilitator }}</span>
       </div>
     {% endif %}
+    
+      {% if s.speaker %}
+      <div class="meta-line speaker">
+        <span class="meta-label">Speaker:</span>
+        <span class="meta-value">{{ s.speaker }}</span>
+      </div>
+    {% endif %}
 
  
 

@@ -2,10 +2,10 @@
 title: "Why are High Performance Computing Systems still based on 1980’s Architectures?"
 
 
-lead: "John McCalpin"
-lead_photos:
+speaker: "John McCalpin"
+speaker_photos:
   - "https://avatars.githubusercontent.com/u/17602692?v=4"
-lead_links: "https://www.bsc.es/mc-calpin-john-david"
+speaker_links: "https://www.bsc.es/mc-calpin-john-david"
 
 
 
