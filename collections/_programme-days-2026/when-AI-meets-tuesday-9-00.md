@@ -110,7 +110,7 @@ We strongly encourage participation from all career stages (from students and ea
 <br><br>
 As part of this session, we invite short talks from researchers and practitioners working at the intersection of AI and HPC.
 <br><br>
-To propose a talk or express interest in contributing, please submit your details via the following form: https://docs.google.com/forms/d/e/1FAIpQLSfkv-hJi23ZUvMAgCz8UBLDlhzfdSfTuWwnj6NEMMog82_x9Q/viewform
+To propose a talk or express interest in contributing, please submit your details via the following form: https://docs.google.com/forms/d/e/1FAIpQLSeHOmlFKnq88BODiBWNrO4eVCz9oaEiJgnKsUTtzdPz_CJGGg/viewform
 <br><br>
 - Deadline for submission: May 10, 2026<br>
 - Outcomes communicated by May 16, 2026.<br>
